@@ -16,6 +16,9 @@
 ```
 The challenge was to allow the user to input two numbers are be able to see the Devtools display that greater number of the two numbers given. Through this challenge, I was able to better understand how functions works and using conditional "if" statement. 
 
+Website: https://auom-eisiad.github.io/GreaterNumbers/
+![Screenshot](images/website.png)
+
 ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
